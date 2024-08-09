@@ -8,6 +8,25 @@ Este proyecto es una aplicación web desarrollada con Flask. A continuación, se
 
 Asegúrate de tener Python 3 y pip instalados en tu sistema. Puedes verificar esto con los siguientes comandos:
 
+
+git clone <URL_DEL_REPOSITORIO>
+cd <NOMBRE_DEL_REPOSITORIO>
+
+
+python3 -m venv env
+
+#Windows
+venv\Scripts\activate
+
+MacOS/Linux
+source venv/bin/activate
+
+pip install flask werkzeug sqlite3
+
+start
+python3 app.py
+
+
 ```bash
 python3 --version
 pip3 --version
