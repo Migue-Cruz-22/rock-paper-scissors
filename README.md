@@ -9,8 +9,8 @@ Este proyecto es una aplicación web desarrollada con Flask. A continuación, se
 Asegúrate de tener Python 3 y pip instalados en tu sistema. Puedes verificar esto con los siguientes comandos:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/Migue-Cruz-22/rock-paper-scissors.git
+cd rock_paper_scissors
 ```
 ```bash
 python3 -m venv env
